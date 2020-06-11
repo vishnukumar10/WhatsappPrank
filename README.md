@@ -1,5 +1,5 @@
-# WhatsappPrank
-So I saw this post on Instagram where a guy pranks his friend on messenger by sending automated text messages. I wanted to give it a try on WhatsApp by scrapping content off a PDF file. It did work and I pranked a couple of my friends XD.
+# WhatsappAutomation
+So I saw this post on Instagram where a guy pranks his friend on messenger by sending automated text messages. I wanted to give it a try on WhatsApp by scrapping content off a PDF file. 
 
 What the code does:
 
